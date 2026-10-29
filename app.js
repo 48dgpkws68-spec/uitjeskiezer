@@ -140,3 +140,12 @@
     gsap.utils.toArray(".item .ph img").forEach(function(img){ gsap.fromTo(img, {scale: 1.15}, {scale: 1, ease: "none", scrollTrigger: {trigger: img.closest(".item"), start: "top bottom", end: "bottom top", scrub: true}}); });
   });
 })();
+
+/* activiteitenfilter */
+document.querySelectorAll("[data-afilter]").forEach(function(b){
+  b.addEventListener("click", function(){
+    document.querySelectorAll("[data-afilter]").forEach(function(x){ x.classList.toggle("on", x === b); });
+    var k = b.getAttribute("data-afilter");
+    document.querySelectorAll(".acs .ac").forEach(function(el){ el.style.display = (k === "all" || (" " + el.getAttribute("data-kind") + " ").indexOf(" " + k + " ") > -1) ? "" : "none"; });
+  });
+});

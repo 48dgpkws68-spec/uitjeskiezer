@@ -1,7 +1,7 @@
 /* uitjeskiezer.nl: koraal + inkt, licht en vrolijk. Mobiel eerst. */
 :root{--coral:#ff5a3c;--coral-d:#e8432a;--ink:#14213d;--ink-2:#3d4763;--sun:#ffc93c;--mint:#16a589;--sky:#3b82f6;--bg:#fffaf5;--card:#fff;--line:#f0e6dc;--soft:#fff1e9;--r:18px;--sh:0 1px 2px rgba(20,33,61,.06),0 8px 24px rgba(20,33,61,.07);--hf:"Bricolage Grotesque",system-ui,sans-serif}
-*{box-sizing:border-box}html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Inter,system-ui,-apple-system,sans-serif;overflow-x:hidden}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Inter,system-ui,-apple-system,sans-serif;overflow-x:clip}
 a{color:var(--coral-d)}img{max-width:100%;display:block}
 h1,h2,h3{font-family:var(--hf);line-height:1.12;letter-spacing:-.02em;margin:0 0 .4em}
 h2{font-size:clamp(1.4rem,3.4vw,2rem)}h3{font-size:1.2rem}

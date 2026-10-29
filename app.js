@@ -72,7 +72,7 @@
   });
 })();
 
-/* ---------- beweging (afgeleid van watkoopik): Lenis, GSAP, WebGL-hero, tilt, magneet, tellers, sticky ---------- */
+/* ---------- beweging (afgeleid van watkoopik): GSAP (gewoon native scrollen, geen Lenis), WebGL-hero, tilt, magneet, tellers, sticky ---------- */
 (function(){
   var touch = matchMedia("(hover: none)").matches, reduce = matchMedia("(prefers-reduced-motion: reduce)").matches, small = innerWidth < 760;
   function ready(f){ if (window.gsap || document.readyState === "complete") f(); else window.addEventListener("load", f); }
@@ -123,8 +123,7 @@
     if (!window.gsap || reduce){ document.documentElement.classList.add("no-motion"); return; }
     document.documentElement.classList.add("motion");
     gsap.registerPlugin(ScrollTrigger);
-    if (window.Lenis && !touch){ var lenis = new Lenis({lerp: .1}); lenis.on("scroll", ScrollTrigger.update); gsap.ticker.add(function(t){ lenis.raf(t * 1000); }); gsap.ticker.lagSmoothing(0);
-      document.querySelectorAll('a[href^="#"]').forEach(function(a){ a.addEventListener("click", function(ev){ var t = document.querySelector(a.getAttribute("href")); if (t){ ev.preventDefault(); lenis.scrollTo(t, {offset: -80}); } }); }); }
+    document.querySelectorAll('a[href^="#"]').forEach(function(a){ a.addEventListener("click", function(ev){ var t = document.querySelector(a.getAttribute("href")); if (t){ ev.preventDefault(); window.scrollTo({top: t.getBoundingClientRect().top + scrollY - 80, behavior: "smooth"}); } }); });
     if (!touch) document.querySelectorAll(".magnet").forEach(function(b){
       b.addEventListener("pointermove", function(ev){ var r = b.getBoundingClientRect(); gsap.to(b, {x: (ev.clientX - r.left - r.width / 2) * .25, y: (ev.clientY - r.top - r.height / 2) * .35, duration: .3, ease: "power3.out"}); });
       b.addEventListener("pointerleave", function(){ gsap.to(b, {x: 0, y: 0, duration: .6, ease: "elastic.out(1,.4)"}); }); });

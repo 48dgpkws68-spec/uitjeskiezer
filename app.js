@@ -111,12 +111,12 @@
     gl.useProgram(pr); gl.bindBuffer(gl.ARRAY_BUFFER, gl.createBuffer()); gl.bufferData(gl.ARRAY_BUFFER, new Float32Array([-1,-1,3,-1,-1,3]), gl.STATIC_DRAW);
     var loc = gl.getAttribLocation(pr, "p"); gl.enableVertexAttribArray(loc); gl.vertexAttribPointer(loc, 2, gl.FLOAT, false, 0, 0);
     var U = {r: gl.getUniformLocation(pr, "r"), t: gl.getUniformLocation(pr, "t"), m: gl.getUniformLocation(pr, "m")};
-    var sc = (touch || small) ? .35 : .5, mx = .7, my = .6, tx = .7, ty = .6, vis = true;
+    var sc = (touch || small) ? .22 : .3, last = 0, mx = .7, my = .6, tx = .7, ty = .6, vis = true;
     function size(){ cv.width = Math.round(cv.clientWidth * sc); cv.height = Math.round(cv.clientHeight * sc); gl.viewport(0, 0, cv.width, cv.height); }
     size(); addEventListener("resize", size);
     addEventListener("pointermove", function(ev){ var r = cv.getBoundingClientRect(); tx = (ev.clientX - r.left) / r.width; ty = 1 - (ev.clientY - r.top) / r.height; }, {passive: true});
     new IntersectionObserver(function(en){ vis = en[0].isIntersecting; }).observe(cv);
-    (function loop(now){ if (vis && !document.hidden){ mx += (tx - mx) * .04; my += (ty - my) * .04; gl.uniform2f(U.r, cv.width, cv.height); gl.uniform1f(U.t, now / 1000); gl.uniform2f(U.m, mx, my); gl.drawArrays(gl.TRIANGLES, 0, 3); } requestAnimationFrame(loop); })(0);
+    (function loop(now){ if (vis && !document.hidden && now - last > 33){ last = now; mx += (tx - mx) * .04; my += (ty - my) * .04; gl.uniform2f(U.r, cv.width, cv.height); gl.uniform1f(U.t, now / 1000); gl.uniform2f(U.m, mx, my); gl.drawArrays(gl.TRIANGLES, 0, 3); } requestAnimationFrame(loop); })(0);
   })();
 
   ready(function(){

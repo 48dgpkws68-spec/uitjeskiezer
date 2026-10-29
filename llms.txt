@@ -1,0 +1,34 @@
+# uitjeskiezer.nl
+
+> Top 10's van uitjes en activiteiten in Nederland, per stad en thema, met prijzen en leeftijden.
+
+- [De 10 leukste uitjes in Amsterdam](https://uitjeskiezer.nl/top-10/leukste-uitjes-amsterdam.html): nr. 1 Rijksmuseum (Amsterdam), slimste keuze Lovers Canal Cruises
+- [De 10 leukste uitjes in Utrecht](https://uitjeskiezer.nl/top-10/leukste-uitjes-utrecht.html): nr. 1 Domtoren (Utrecht), slimste keuze Botanische Tuinen Utrecht
+- [De 10 leukste uitjes in Rotterdam](https://uitjeskiezer.nl/top-10/leukste-uitjes-rotterdam.html): nr. 1 Depot Boijmans Van Beuningen (Rotterdam), slimste keuze Markthal
+- [De 10 leukste uitjes in Den Haag en Scheveningen](https://uitjeskiezer.nl/top-10/leukste-uitjes-den-haag.html): nr. 1 Mauritshuis (Den Haag), slimste keuze Escher in Het Paleis
+- [De 10 leukste pretparken van Nederland](https://uitjeskiezer.nl/top-10/leukste-pretparken-nederland.html): nr. 1 Efteling (Kaatsheuvel), slimste keuze Avonturenpark Hellendoorn
+- [De 10 leukste dierentuinen van Nederland](https://uitjeskiezer.nl/top-10/leukste-dierentuinen-nederland.html): nr. 1 Burgers' Zoo (Arnhem), slimste keuze AquaZoo Leeuwarden
+- [De 10 leukste uitjes in Eindhoven en omgeving](https://uitjeskiezer.nl/top-10/leukste-uitjes-eindhoven.html): nr. 1 Van Abbemuseum (Eindhoven), slimste keuze Philips Museum
+- [De 10 leukste dagjes uit met kinderen in Nederland](https://uitjeskiezer.nl/top-10/uitjes-met-kinderen-nederland.html): nr. 1 Efteling (Kaatsheuvel), slimste keuze Naturalis Biodiversity Center
+- [De 10 leukste musea van Nederland](https://uitjeskiezer.nl/top-10/leukste-musea-nederland.html): nr. 1 Rijksmuseum (Amsterdam), slimste keuze Teylers Museum
+- [De 10 leukste uitjes in Groningen](https://uitjeskiezer.nl/top-10/leukste-uitjes-groningen.html): nr. 1 Groninger Museum (Groningen), slimste keuze Martinitoren
+- [De 10 leukste uitjes in Maastricht](https://uitjeskiezer.nl/top-10/leukste-uitjes-maastricht.html): nr. 1 Grotten Noord Sint-Pietersberg (Maastricht), slimste keuze Boekhandel Dominicanen
+- [De 10 leukste uitjes met kinderen in Amsterdam](https://uitjeskiezer.nl/top-10/uitjes-met-kinderen-amsterdam.html): nr. 1 NEMO Science Museum (Amsterdam), slimste keuze Micropia
+- [De 10 leukste uitjes met kinderen in Rotterdam](https://uitjeskiezer.nl/top-10/uitjes-met-kinderen-rotterdam.html): nr. 1 Diergaarde Blijdorp (Rotterdam), slimste keuze Het Natuurhistorisch
+- [De 10 leukste uitjes met kinderen in de provincie Utrecht](https://uitjeskiezer.nl/top-10/uitjes-met-kinderen-utrecht.html): nr. 1 Spoorwegmuseum (Utrecht), slimste keuze Centraal Museum
+- [De 10 leukste uitjes in Haarlem](https://uitjeskiezer.nl/top-10/leukste-uitjes-haarlem.html): nr. 1 Teylers Museum (Haarlem), slimste keuze Haarlemse hofjes
+- [De 10 leukste uitjes in Leiden](https://uitjeskiezer.nl/top-10/leukste-uitjes-leiden.html): nr. 1 Naturalis Biodiversity Center (Leiden), slimste keuze Rijksmuseum van Oudheden
+- [De 10 leukste uitjes in Arnhem en de Veluwe-rand](https://uitjeskiezer.nl/top-10/leukste-uitjes-arnhem.html): nr. 1 Burgers' Zoo (Arnhem), slimste keuze Nationaal Park Veluwezoom en Posbank
+- [De 10 leukste regenuitjes in Amsterdam](https://uitjeskiezer.nl/top-10/regenuitjes-amsterdam.html): nr. 1 Rijksmuseum (Amsterdam), slimste keuze Eye Filmmuseum
+- [De 10 leukste regenuitjes met kinderen](https://uitjeskiezer.nl/top-10/regenuitjes-met-kinderen.html): nr. 1 Naturalis Biodiversity Center (Leiden), slimste keuze Miniworld Rotterdam
+- [De 10 leukste uitjes in Noord-Brabant](https://uitjeskiezer.nl/top-10/leukste-uitjes-noord-brabant.html): nr. 1 Efteling (Kaatsheuvel), slimste keuze Nationaal Park De Loonse en Drunense Duinen
+- [De 10 leukste regenuitjes voor volwassenen](https://uitjeskiezer.nl/top-10/regenuitjes-volwassenen.html): nr. 1 Rijksmuseum (Amsterdam), slimste keuze Olround Utrecht
+- [De 10 leukste gratis uitjes in Nederland](https://uitjeskiezer.nl/top-10/gratis-uitjes-nederland.html): nr. 1 Nationaal Park Zuid-Kennemerland (Overveen), slimste keuze Vondelpark
+- [De 10 leukste romantische uitjes in Nederland](https://uitjeskiezer.nl/top-10/romantische-uitjes.html): nr. 1 Kasteel de Haar (Haarzuilens), slimste keuze Fluisterboot Grachthof Giethoorn
+- [De 10 leukste sauna's en wellnessresorts in Nederland](https://uitjeskiezer.nl/top-10/leukste-sauna-wellness-nederland.html): nr. 1 Thermen Bussloo (Voorst), slimste keuze Fort Resort Beemster
+- [De 10 leukste kerstmarkten van Nederland](https://uitjeskiezer.nl/top-10/kerstmarkten-nederland.html): nr. 1 Kerststad Valkenburg (Valkenburg), slimste keuze Royal Christmas Fair Den Haag
+- [De 10 leukste bedrijfsuitjes in Nederland](https://uitjeskiezer.nl/top-10/bedrijfsuitjes.html): nr. 1 Heineken Experience (Amsterdam), slimste keuze Fun Forest
+- [De 10 leukste activiteiten voor een vrijgezellenfeest](https://uitjeskiezer.nl/top-10/vrijgezellenfeest-activiteiten.html): nr. 1 Splashtours (Rotterdam), slimste keuze Fun Forest
+- [De 10 leukste winteruitjes in Nederland](https://uitjeskiezer.nl/top-10/winteruitjes-nederland.html): nr. 1 Winter Efteling (Kaatsheuvel), slimste keuze GLOW Eindhoven
+- [De 10 leukste uitjes in Gelderland en op de Veluwe](https://uitjeskiezer.nl/top-10/uitjes-gelderland-veluwe.html): nr. 1 Nationaal Park De Hoge Veluwe (Otterlo), slimste keuze Nationaal Park Veluwezoom en Posbank
+- [De 10 leukste uitjes in Zuid-Holland](https://uitjeskiezer.nl/top-10/leukste-uitjes-zuid-holland.html): nr. 1 Werelderfgoed Kinderdijk (Kinderdijk), slimste keuze Keringhuis Maeslantkering

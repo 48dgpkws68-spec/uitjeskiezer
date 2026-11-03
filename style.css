@@ -193,3 +193,4 @@ footer ul{list-style:none;padding:0;margin:0}footer li{padding:3px 0}footer a{co
 .ac-f span{color:var(--coral-d);font-weight:700}
 .cities.light .city{background:#fff;border-color:var(--line);color:var(--ink)}.cities.light .city:hover{background:var(--coral);color:#fff}
 .act-cta{display:inline-flex;margin:8px 0 26px}
+.extra{margin:10px 0 0;font-size:14px}.extra a{color:var(--coral-d);font-weight:600}.extra small{opacity:.7}

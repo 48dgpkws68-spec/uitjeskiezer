@@ -3,6 +3,8 @@
   var R = window.ROOT || "";
   var burger = document.querySelector(".burger"), drawer = document.querySelector(".drawer");
   if (burger) burger.addEventListener("click", function(){ var o = drawer.classList.toggle("open"); burger.setAttribute("aria-expanded", o); document.body.style.overflow = o ? "hidden" : ""; });
+  // familiebalk (mobiel scrollt hij horizontaal): schuif de huidige gids in beeld
+  document.querySelectorAll(".clnav .on").forEach(function(o){ var n = o.parentNode; if (n.scrollWidth > n.clientWidth) n.scrollLeft = o.offsetLeft - n.offsetLeft - 60; });
 
   var DB = null, waiting = [];
   function db(cb){ if (DB) return cb(DB); waiting.push(cb); if (waiting.length > 1) return;

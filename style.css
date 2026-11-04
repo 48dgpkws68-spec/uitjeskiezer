@@ -194,3 +194,14 @@ footer ul{list-style:none;padding:0;margin:0}footer li{padding:3px 0}footer a{co
 .cities.light .city{background:#fff;border-color:var(--line);color:var(--ink)}.cities.light .city:hover{background:var(--coral);color:#fff}
 .act-cta{display:inline-flex;margin:8px 0 26px}
 .extra{margin:10px 0 0;font-size:14px}.extra a{color:var(--coral-d);font-weight:600}.extra small{opacity:.7}
+/* families (4 nov 2026): balk met alle top 10's over hetzelfde onderwerp, alinea onder de tips, rijen op categoriepagina's */
+.clnav{display:flex;flex-wrap:wrap;gap:7px;margin:-4px 0 18px}
+.clnav a,.clnav span{flex:none;border:1.5px solid var(--line);border-radius:999px;padding:6px 13px;font-size:.84rem;font-weight:600;line-height:1.35;white-space:nowrap;color:var(--ink);background:#fff;text-decoration:none;transition:border-color .15s,color .15s,background .15s}
+.clnav a:hover{border-color:var(--coral);color:var(--coral-d)}
+.clnav .cl-all{background:var(--ink);border-color:var(--ink);color:#fff}
+.clnav a.cl-all:hover{background:var(--coral);border-color:var(--coral);color:#fff}
+.clnav .on{background:var(--soft);border-color:var(--soft);color:var(--ink-2)}
+.cl-more{margin-top:22px}
+.cl-h{margin:36px 0 16px}
+.cl-rows{margin-top:40px}.cl-rows h2{margin-bottom:14px}.cl-rows .clnav{margin:0 0 10px}
+@media (max-width:640px){.clnav{flex-wrap:nowrap;overflow-x:auto;margin:-4px -16px 18px;padding:2px 16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.clnav::-webkit-scrollbar{display:none}.cl-rows .clnav{margin:0 -16px 10px}}

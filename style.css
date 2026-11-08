@@ -205,3 +205,6 @@ footer ul{list-style:none;padding:0;margin:0}footer li{padding:3px 0}footer a{co
 .cl-h{margin:36px 0 16px}
 .cl-rows{margin-top:40px}.cl-rows h2{margin-bottom:14px}.cl-rows .clnav{margin:0 0 10px}
 @media (max-width:640px){.clnav{flex-wrap:nowrap;overflow-x:auto;margin:-4px -16px 18px;padding:2px 16px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.clnav::-webkit-scrollbar{display:none}.cl-rows .clnav{margin:0 -16px 10px}}
+/* uitje-pagina's (groeimotor N15) */
+.up-link{color:var(--coral-d);font-weight:600;white-space:nowrap}
+.up .item{margin:18px 0 22px}.up .txt{margin:0 0 18px;max-width:760px}.up .pc{margin:0 0 18px}.up .guide ul{padding-left:20px;line-height:1.8}

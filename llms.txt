@@ -1,6 +1,27 @@
-# uitjeskiezer.nl
+# uitjeskiezer
 
-> Top 10's van uitjes en activiteiten in Nederland, per stad en thema, met prijzen en leeftijden.
+> Onafhankelijke Nederlandse site met top 10's van uitjes en activiteiten in Nederland, per stad en per thema, voor gezinnen, stellen, groepen en dagjesmensen.
+
+uitjeskiezer heeft 78 top 10's met samen 780 uitjes. Per uitje staan de plaats, de prijs voor 1 volwassene (indicatief, gecontroleerd bij de officiële site of een ticketpartner), de leeftijd, de duur, binnen of buiten en plus- en minpunten. Elke lijst noemt een Beste keuze, een Slimste keuze (meeste beleving per euro) en een Beste beleving. De lijsten worden geschreven met hulp van AI-tools op basis van officiële sites, prijzen en ervaringen van bezoekers; de redactie past ze aan als iets niet meer klopt. Aanbieders kunnen geen plek kopen. Een deel van de links naar ticketsites zijn affiliate-links: boek je via zo'n link, dan krijgt uitjeskiezer een kleine commissie en betaal jij hetzelfde. Contact via het formulier op https://uitjeskiezer.nl/contact.html.
+
+## Belangrijkste pagina's
+
+- [Alle top 10's](https://uitjeskiezer.nl/top-10.html): overzicht van alle lijsten, te zoeken en te filteren per stad en thema
+- [Keuzehulp](https://uitjeskiezer.nl/keuzehulp.html): vier vragen (gezelschap, weer, budget, regio), drie passende uitjes
+- [Zo kiezen wij](https://uitjeskiezer.nl/zo-kiezen-wij.html): hoe een top 10 en de uitjeskiezer-score tot stand komen
+- [Over uitjeskiezer](https://uitjeskiezer.nl/over-ons.html): wie de site maakt en hoe de redactie werkt
+- [Affiliate-disclaimer](https://uitjeskiezer.nl/disclaimer.html): hoe uitjeskiezer geld verdient
+- [Steden](https://uitjeskiezer.nl/uitjes/stad.html): De leukste uitjes per stad
+- [Met kinderen](https://uitjeskiezer.nl/uitjes/kinderen.html): dagjes uit met het hele gezin
+- [Regenuitjes](https://uitjeskiezer.nl/uitjes/binnen.html): binnen leuk, ook als het regent
+- [Erop uit](https://uitjeskiezer.nl/uitjes/buiten.html): natuur, provincies en gratis uitjes
+- [Attracties](https://uitjeskiezer.nl/uitjes/attracties.html): pretparken en dierentuinen
+- [Cultuur](https://uitjeskiezer.nl/uitjes/cultuur.html): musea en bijzondere plekken
+- [Met z'n tweeën](https://uitjeskiezer.nl/uitjes/samen.html): dates, wellness en romantische uitjes
+- [Groepsuitjes](https://uitjeskiezer.nl/uitjes/groep.html): bedrijfsuitjes en vrijgezellenfeesten
+- [Winter](https://uitjeskiezer.nl/uitjes/winter.html): kerstmarkten, schaatsen en lichtfestivals
+
+## Top 10's
 
 - [De 10 leukste uitjes in Amsterdam](https://uitjeskiezer.nl/top-10/leukste-uitjes-amsterdam.html): nr. 1 Rijksmuseum (Amsterdam), slimste keuze Lovers Canal Cruises
 - [De 10 leukste uitjes in Utrecht](https://uitjeskiezer.nl/top-10/leukste-uitjes-utrecht.html): nr. 1 Domtoren (Utrecht), slimste keuze Botanische Tuinen Utrecht
